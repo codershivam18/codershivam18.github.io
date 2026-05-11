@@ -166,6 +166,16 @@ nav ul li a:hover, nav ul li a.active {
     font-size: 0.9rem;
 }
 
+.btn-live {
+    background: linear-gradient(135deg, #FF3366, #ff85a2) !important;
+    box-shadow: 0 4px 15px rgba(255, 51, 102, 0.3) !important;
+    border: none;
+}
+
+.btn-live:hover {
+    box-shadow: 0 8px 25px rgba(255, 51, 102, 0.5) !important;
+}
+
 /* ===== SECTIONS ===== */
 section {
     padding: 100px 20px;
