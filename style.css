@@ -167,13 +167,13 @@ nav ul li a:hover, nav ul li a.active {
 }
 
 .btn-live {
-    background: linear-gradient(135deg, #FF3366, #ff85a2) !important;
-    box-shadow: 0 4px 15px rgba(255, 51, 102, 0.3) !important;
+    background: linear-gradient(135deg, #ff416c, #ff4b2b) !important;
+    box-shadow: 0 4px 15px rgba(255, 65, 108, 0.4) !important;
     border: none;
 }
 
 .btn-live:hover {
-    box-shadow: 0 8px 25px rgba(255, 51, 102, 0.5) !important;
+    box-shadow: 0 8px 25px rgba(255, 65, 108, 0.6) !important;
 }
 
 /* ===== SECTIONS ===== */
