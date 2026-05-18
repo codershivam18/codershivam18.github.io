@@ -81,6 +81,20 @@
         </div>
       </td>
     </tr>
+    <tr>
+      <td width="50%" align="left">
+        <div style="border: 1px solid #333; border-radius: 10px; padding: 15px;">
+          <h3>🤖 Authentix</h3>
+          <p>Premium web app for ATS analysis, AI detection, stealth text humanization, and IEEE citation generation.</p>
+          <code>Flask</code> <code>Python</code> <code>Groq API</code> <code>Tailwind</code>
+          <br/><br/>
+          <a href="https://github.com/codershivam18/Authentix"><b>[ CODE ]</b></a> &nbsp; <a href="https://huggingface.co/spaces/coder18/Authentix"><b>[ LIVE ]</b></a>
+        </div>
+      </td>
+      <td width="50%" align="left">
+        <!-- Placeholder for future project -->
+      </td>
+    </tr>
   </table>
 </div>
 
