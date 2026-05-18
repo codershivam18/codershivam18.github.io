@@ -68,7 +68,7 @@
           <p>Autonomous multi-agent AI swarm utilizing Genetic Algorithms for self-improving prompt engineering.</p>
           <code>Python</code> <code>Hugging Face</code> <code>Gradio</code> <code>Docker</code>
           <br/><br/>
-          <a href="https://github.com/codershivam18/evohive"><b>[ CODE ]</b></a> &nbsp; <a href="https://coder18-evohive.hf.space"><b>[ LIVE ]</b></a>
+          <a href="https://github.com/codershivam18/evohive"><b>[ CODE ]</b></a> &nbsp; <a href="https://huggingface.co/spaces/coder18/evohive"><b>[ LIVE ]</b></a>
         </div>
       </td>
       <td width="50%" align="left">
